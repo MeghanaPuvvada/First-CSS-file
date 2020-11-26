@@ -1,0 +1,13 @@
+body{
+	font-family: monotype;
+	font-size: 50pt;
+	color: blue;
+	text-align:center;
+	background:lightblue;
+	border:1px solid green; 
+}
+
+h3:hover{
+	color: white;
+	background: purple;
+}
